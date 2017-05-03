@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjViewer", "ObjViewer\ObjViewer.vcxproj", "{55F4C5A2-5E5C-4FAF-AA8E-BA0D213F2449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F4C5A2-5E5C-4FAF-AA8E-BA0D213F2449}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55F4C5A2-5E5C-4FAF-AA8E-BA0D213F2449}.Debug|Win32.Build.0 = Debug|Win32
+		{55F4C5A2-5E5C-4FAF-AA8E-BA0D213F2449}.Release|Win32.ActiveCfg = Release|Win32
+		{55F4C5A2-5E5C-4FAF-AA8E-BA0D213F2449}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
